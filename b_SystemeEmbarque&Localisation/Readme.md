@@ -12,6 +12,9 @@ Cette page est destinée à présenter l'avancement du travail sur :
 
 ## Avancement 2025-2026
 
+**Capteur de pression**
+07/11 :  code et câblage du ICP réalisés, reste à fairre un test plus concluant et à comparer avec l'autre capteur de chez ST.
+
 **Vision**
 07/11 : tests sur une nouvelle caméra des méthodes de calibration et détection des Apriltags réussis. Familiarisation avec le code de localisation utilisé actuellement sur le dirigeable. Codage sur une nouvelle camera pour la detection du centre du nouveau tag issu de la bibliothèque Aruco pour détecter le dirigeable depuis le plafond, même lorsqu'il est loin. Ceci sert pour détecter la translation du dirigeable. Pour plus tard : finalisation de ce codage pour détecter les rotations.
 
